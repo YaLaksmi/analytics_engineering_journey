@@ -83,7 +83,7 @@
 
 - **GitHub:** [ваш логин]/analytics_engineering_journey
 - **Email:** ania‑k@yandex.ru
-- **Telegram:** @ваш_ник (по желанию)
+- **Telegram:** @Yana_Kurzibova
 
 ---
 
