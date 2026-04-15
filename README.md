@@ -81,7 +81,7 @@
 
 ## 🔗 Контакты
 
-- **GitHub:** [ваш логин]/analytics_engineering_journey
+- **GitHub:** (https://github.com/YaLaksmi/analytics_engineering_journey/tree/main)
 - **Email:** ania‑k@yandex.ru
 - **Telegram:** @Yana_Kurzibova
 
